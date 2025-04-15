@@ -6,7 +6,7 @@ This project explores real-world supply chain management (SCM) data to uncover i
 
 ## 📁 Dataset
 
-- **Source**: [Kaggle - Supply Chain Management (SCM) Dataset](https://www.kaggle.com/datasets)
+- **Source**: [Kaggle - Supply Chain Management (SCM) Dataset](https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset/discussion/534827)
 - **File Name**: `supply_chain_data.csv`
 
 ---
