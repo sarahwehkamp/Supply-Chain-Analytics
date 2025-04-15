@@ -4,6 +4,13 @@ This project explores real-world supply chain management (SCM) data to uncover i
 
 ---
 
+## 📁 Dataset
+
+- **Source**: [Kaggle - Supply Chain Management (SCM) Dataset](https://www.kaggle.com/datasets)
+- **File Name**: `supply_chain_data.csv`
+
+---
+
 ## 🧠 Project Overview
 
 Supply chain optimization plays a critical role in business success. This project investigates how different SCM practices—such as Agile, Lean Manufacturing, and Cross-Docking—affect company performance and customer satisfaction.
