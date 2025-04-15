@@ -10,6 +10,13 @@ Supply chain optimization plays a critical role in business success. This projec
 
 ---
 
+## 🧪 What’s in this repo?
+- `SCM_Data_Analysis_and_Cleaning.ipynb` — Google Colab notebook with full analysis
+- `cleaned_supply_chain_data.csv` — Cleaned CSV ready for Tableau
+- `README.md` — This file 😊
+
+---
+
 ## ❓ Questions I Want to Answer
 
 1. Which supply chain practices (Agile, Lean, Cross-Docking) are most commonly used by companies?
@@ -60,11 +67,11 @@ Supply chain optimization plays a critical role in business success. This projec
 
 ## 🔗 Tableau Dashboard
 👉 [Click here to view the Tableau Dashboard](#)  
-_(replace with your Tableau Public link)_
 
 ---
 
 ## 🧠 Author
 Sarah M Wehkamp  
-[GitHub Profile](https://github.com/)
-
+[GitHub Profile](https://www.github.com/sarahwehkamp) | 
+[LinkedIn](https://www.linkedin.com/in/sarah-wehkamp) |
+[Portfolio](https://lnw26.myportfolio.com)
