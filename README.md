@@ -31,8 +31,6 @@ Supply chain optimization plays a critical role in business success. This projec
 3. Is there a correlation between the number of SCM practices used and performance?
 4. Are there clusters among companies based on SCM practices and performance?
 5. What SCM strategies are associated with high customer satisfaction?
-6. Can we predict a company’s performance based on SCM strategy data?
-
 ---
 
 ## 🧠 Thought Process & Methodology
