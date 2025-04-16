@@ -71,7 +71,7 @@ Supply chain optimization plays a critical role in business success. This projec
 ---
 
 ## 🔗 Tableau Dashboard
-👉 [Click here to view the Tableau Dashboard](#)  
+👉 [Click here to view the Tableau Dashboard](https://public.tableau.com/views/SupplyChainAnalyticsProject_17447705631530/Overview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
 
